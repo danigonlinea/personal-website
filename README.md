@@ -1,4 +1,10 @@
-# Get started building your personal website
+# Personal website published [here](https://danigonlinea.github.io/)
+
+This repository will not received changes as it is migrated [here](https://github.com/danigonlinea/danigonlinea.github.io)
+
+---
+
+## Get started building your personal website
 
 ### Showcase your software development skills
 
